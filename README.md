@@ -37,6 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## ENV VARIABLES (update it)
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+
 CLERK_SECRET_KEY
 
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
